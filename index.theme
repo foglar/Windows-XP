@@ -1,7 +1,6 @@
 [Icon Theme]
 Name=Windows XP
 Comment=Windows XP icon pack, based on YlmfOS to solve scaling problems
-Comment=http://b00merang.weebly.com/winxp.html
 
 Example=folder
 
@@ -215,69 +214,6 @@ Type=Scalable
 Context=Status
 Size=128
 MinSize=16
-MaxSize=512
-Type=Scalable
-
-[scalable/actions]
-Context=Actions
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
-
-[scalable/apps]
-Context=Applications
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
-
-[scalable/devices]
-Context=Devices
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
-
-[scalable/emblems]
-Context=Emblems
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
-
-[scalable/mimetypes]
-Context=MimeTypes
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
-
-[scalable/places]
-Context=Places
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
-
-[scalable/status]
-Context=Status
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
-
-[scalable/categories]
-Context=Categories
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
-
-[scalable/notifications]
-Context=Notifications
-Size=16
-MinSize=8
 MaxSize=512
 Type=Scalable
 
